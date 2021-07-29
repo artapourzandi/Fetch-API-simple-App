@@ -1,0 +1,1 @@
+In this Project I have made a fetch API for making requests and fetching resources. This is a very simple appication. I've created a fetch API app to get data from local resources as well as a remote API.
